@@ -1,7 +1,10 @@
 # 小记
-
-## home
-## list
-## detail
-## filter
-## config
+### home
+1. 年、撰入口、当前年列表、设定入口
+### list
+2. 年列表、月列表、月份列表
+### detail
+3. 时间、地点、增删改
+### filter
+### config
+字体、横纵、日历
